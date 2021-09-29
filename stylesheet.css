@@ -1,0 +1,142 @@
+.container{
+    margin: 0;
+    padding: 1.7em;
+    letter-spacing: 1.3px;
+    box-sizing: border-box;
+    font-family: Georgia, serif;
+    background-color: lemonchiffon;
+}
+
+div#bakgrunnsbilde{
+    padding: 8%;
+    background-image: url(https://pizzamani.no/wp-content/uploads/2020/02/Velge-pizzaovn-1080x675.jpg);
+	background-size: 80% 95%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+
+    text-decoration:none ;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+h1{
+    font-size: 2.7rem;
+    line-height: 2.4rem;
+    font-family: Georgia, serif;
+    margin: auto;
+    width: 45%;
+    border: 3px;
+    padding: 10px;
+    border-bottom: 2px solid #333;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    text-shadow: 2px 2px #FFFFFF;
+
+    
+}
+
+
+h2 {
+    font-size: 2.1em;
+    letter-spacing: 1.2px;
+
+
+}
+h3{
+    font-size: 1.1em;
+    margin-top: 10px;
+    
+
+}
+img {max-width: 100%;
+height: auto;}
+
+
+
+.meny-heading {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+ 
+
+}
+main {
+    text-align: center;
+}
+
+.Forrett{
+  
+       justify-content: space-between;
+      
+}
+
+.middag{
+
+    justify-content: space-between;
+   
+
+}
+.dessert{
+ 
+    justify-content: space-between;
+    
+    
+}
+
+
+.rett-pris{
+    
+    vertical-align: middle;
+    text-align: center;
+
+    
+}
+
+
+.rett-navn {
+    vertical-align: middle;
+    text-align: center; 
+
+}
+.rett-informasjon {
+    line-height: 1.5;
+
+
+}
+p.allergener{
+font-size: 0.7em;
+font-style: italic;
+}
+
+p.linjehoyde{
+    line-height: 1.4em;
+}
+
+.container1{
+    width: 100%;
+    display: inline-block
+}
+
+.take-away{
+    width: 50%;
+    max-width: fit-content;
+}
+
+.åpningstider {
+    width: 50%;
+    max-width: fit-content;
+}
+
