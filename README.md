@@ -4,4 +4,4 @@ Det er noen ting som vi ikke fikk helt til i oppgaven, et av tingene er footeren
 
 Det andre var selve bakgrunnsbildet i header, bildet ser ikke bra ut den er zooma veldig ut og det fører til at bildet blir litt dårlig kvalitet og man får litt problem med å se hva det er bildet av. 
 
-Nettsider som vi hentet inspirasjon fra er denne https://www.pizzacrudo.no/. Vi synes den sin meny så veldig fin og ryddig. Derfor brukte vi denne. 
+Nettsider som vi hentet inspirasjon fra er denne https://www.pizzacrudo.no/. Vi synes siden sin meny så veldig fin og ryddig. Derfor brukte vi denne. 
