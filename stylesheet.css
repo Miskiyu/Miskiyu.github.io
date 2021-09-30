@@ -1,5 +1,3 @@
-html,body {padding:0; margin:0;}
-
 
 .container{
     margin: 0;
@@ -30,6 +28,12 @@ nav a{
     padding-right: 10px;
 }
 
+.resturant{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+
+}
 h1, h2 {
     font-weight: bold;
 }
@@ -46,8 +50,6 @@ h1{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 2.4px;
-    text-shadow: 2px 2px #FFFFFF;
-
     
 }
 
@@ -64,17 +66,9 @@ h3{
     
 
 }
-h4{
-    margin-top: 45px;
-}
-
 img {max-width: 100%;
 height: auto;}
 
-.informasjon-navn{
-    font-size: 17px;
-    font-weight: bold;
-}
 
 
 .meny-heading {
@@ -88,17 +82,42 @@ main {
     text-align: center;
 }
 
+.Forrett{
+    display: flex;
+       justify-content: space-between;
+      
+}
 
-.rett-pris{  
+.middag{
+ display: flex;
+    justify-content: space-between;
+   
+
+}
+.dessert{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+
+.rett-pris{
+    display: table-cell;
+    width: 100px;
+    height: 5px;
     vertical-align: middle;
-    text-align: center;
 
     
 }
 
+
 .rett-navn {
-    vertical-align: middle;
-    text-align: center; 
+    display: table-cell;
+    vertical-align: middle
+    
+
+  
 
 }
 .rett-informasjon {
@@ -115,28 +134,30 @@ p.linjehoyde{
     line-height: 1.4em;
 }
 
-.container1 {
-    height:200px;
-    text-align: center;
-    padding-left: 40px;
+.sted{
+    margin-left:17px ;
+    box-sizing: border-box;
+    clear: both;
+    display: flex;
+    text-transform: uppercase;
 
-    overflow: hidden;
 }
-.container1 div{
-    float: left;
-    width: 30%;
-    padding-bottom: 20px;
+.kontakt{
+    margin-left:17px ;
+    box-sizing: border-box;
+    clear: both;
+    display: flex;
+    
 
-   
 }
-table{
-    padding-left: 20px;
-    margin: 0px;
-    text-align: center;
-    padding-bottom: 20px;
-  
+.informasjon-kontakt{
+    
+    display: flex;
+    
 }
 
 
 
-
+.bestilling {
+    text-transform: uppercase;
+}
