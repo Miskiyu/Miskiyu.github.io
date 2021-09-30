@@ -89,9 +89,7 @@ main {
 }
 
 
-
-.rett-pris{
-    
+.rett-pris{  
     vertical-align: middle;
     text-align: center;
 
@@ -116,8 +114,6 @@ font-style: italic;
 p.linjehoyde{
     line-height: 1.4em;
 }
-
-
 
 .container1 {
     height:200px;
