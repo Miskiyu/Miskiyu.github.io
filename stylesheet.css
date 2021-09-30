@@ -65,7 +65,7 @@ h3{
 
 }
 h4{
-    margin-top: 12px;
+    margin-top: 45px;
 }
 
 img {max-width: 100%;
@@ -88,24 +88,6 @@ main {
     text-align: center;
 }
 
-.Forrett{
-  
-       justify-content: space-between;
-      
-}
-
-.middag{
-
-    justify-content: space-between;
-   
-
-}
-.dessert{
- 
-    justify-content: space-between;
-    
-    
-}
 
 
 .rett-pris{
@@ -115,7 +97,6 @@ main {
 
     
 }
-
 
 .rett-navn {
     vertical-align: middle;
@@ -140,34 +121,26 @@ p.linjehoyde{
 
 .container1 {
     height:200px;
-    
-    border:3px solid silver;
+    text-align: center;
+    padding-left: 40px;
+
     overflow: hidden;
 }
 .container1 div{
-    padding: 2px;;
-    margin: 2px;;
     float: left;
-}
+    width: 30%;
+    padding-bottom: 20px;
 
-.kontakt{
-    width: 30%;
-    padding-left: 2%;
-    padding-right: 2%;
    
 }
-.take-away{
-    width: 30%;
-    margin: 0;
-   
+table{
+    padding-left: 20px;
+    margin: 0px;
+    text-align: center;
+    padding-bottom: 20px;
   
 }
 
-.åpningstider {
-    width: 30%;
-   
-   
-   
-}
+
 
 
